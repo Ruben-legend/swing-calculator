@@ -3,3 +3,12 @@
 
 # Ignore Gradle build output directory
 build
+
+.settings
+
+.project
+
+app/bin
+app/build
+app/.settings
+app/.classpath
